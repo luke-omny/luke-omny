@@ -1,4 +1,4 @@
-# [![Luke Wyatt Profile Header](https://raw.githubusercontent.com/luke-omny/luke-omny/main/assets/images/banner.png)](https://github.com/luke-omny)
+# [![LUKE-OMNY Profile Header](https://raw.githubusercontent.com/luke-omny/luke-omny/main/assets/images/banner.png)](https://github.com/luke-omny)
 
 ---
 
@@ -12,26 +12,13 @@ OMNY Health™ is a healthcare ecosystem that connects providers and life scienc
 
 **TECHNOLOGIES**
 
-![](https://img.shields.io/badge/Language-Dotnet-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-Shell-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-TSQL-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Language-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-Dotnet-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=2bbc8a)&nbsp;&nbsp; ![](https://img.shields.io/badge/Language-Shell-informational?style=for-the-badge&logo=gnubash&logoColor=white&color=2bbc8a)&nbsp;&nbsp; ![](https://img.shields.io/badge/Language-TSQL-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)&nbsp;&nbsp; ![](https://img.shields.io/badge/Language-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
 
-![](https://img.shields.io/badge/Language-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=5dade2)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Markup-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=5dade2)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Platform-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=af7ac5)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-NodeJS-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2bbc8a)&nbsp;&nbsp; ![](https://img.shields.io/badge/Markup-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=5dade2)&nbsp;&nbsp; ![](https://img.shields.io/badge/Markup-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=5dade2)&nbsp;&nbsp; ![](https://img.shields.io/badge/Platform-Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=af7ac5)&nbsp;&nbsp;
 
-![](https://img.shields.io/badge/Engine-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Mirth-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Stack-Jamstack-informational?style=for-the-badge&logo=jamstack&logoColor=white&color=d98880)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Stack-MEAN-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=d98880)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=af7ac5)&nbsp;&nbsp; ![](https://img.shields.io/badge/Engine-Mirth-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp; ![](https://img.shields.io/badge/Stack-Jamstack-informational?style=for-the-badge&logo=jamstack&logoColor=white&color=d98880)&nbsp;&nbsp; ![](https://img.shields.io/badge/Stack-MEAN-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=d98880)&nbsp;&nbsp;
 
 
 **CURRENTLY LEARNING OR ON-THE-ROSTER**
 
-![](https://img.shields.io/badge/Language-Go-informational?style=for-the-badge&logo=goland&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Platform-GCP-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Platform-K8s-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Argo-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Nuclio-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Language-Go-informational?style=for-the-badge&logo=goland&logoColor=white&color=2bbc8a)&nbsp;&nbsp; ![](https://img.shields.io/badge/Platform-GCP-informational?style=for-the-badge&logo=googlecloud&logoColor=white&color=af7ac5)&nbsp;&nbsp; ![](https://img.shields.io/badge/Platform-K8s-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=af7ac5)&nbsp;&nbsp; ![](https://img.shields.io/badge/Engine-Argo-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp; ![](https://img.shields.io/badge/Engine-Nuclio-informational?style=for-the-badge&logo=conventionalcommits&logoColor=white&color=af7ac5)&nbsp;&nbsp;
